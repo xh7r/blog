@@ -1,6 +1,8 @@
 <!-- _navbar.md -->
 
 * [Jaylen's blog](/)
-* [Coding](/coding/)
+* [CS](/CS/)
+* [Research](/research/)
+* [Math](/math/)
 * [Reading](/reading/)
 * [Essay](/essays/)
