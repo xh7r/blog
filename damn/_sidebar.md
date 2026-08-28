@@ -1,13 +1,9 @@
 <!-- docs/_sidebar.md -->
-* [Introduction](/coding/ "Coding")
-* [C++](/coding/C++.md)
-* [Elasticsearch](/coding/Elasticsearch.md)
-* [MySQL](/coding/MySQL.md)
-* [Linux](/coding/Linux.md)
-* [PAT刷题随笔](/coding/PAT刷题随笔.md)
-* [嘉樂算法随笔](/coding/嘉樂算法随笔.md)
-* [Jupyter_connect_server](/coding/Jupyter_connect_server.md)
-* [Nginx](/coding/Nginx.md)
-  
-
-
+* [Introduction](/damn/ "Coding")
+* [C++](/damn/C++.md)
+* [Elasticsearch](/damn/Elasticsearch.md)
+* [MySQL](/damn/MySQL.md)
+* [Linux](/damn/Linux.md)
+* [PAT刷题随笔](/damn/PAT刷题随笔.md)
+* [python](/damn/python.md)
+* [嘉樂算法随笔](/damn/嘉樂算法随笔.md)

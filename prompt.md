@@ -1,0 +1,2 @@
+更新_sidebar:
+.gitignore中不push的不用更新

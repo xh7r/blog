@@ -3,6 +3,7 @@
 * [Nginx](/CS/network/Nginx.md)
 * [Jupyter_connect_server](/CS/tips/Jupyter_connect_server.md)
 * [mac_ssh](/CS/OS/mac_ssh.md)
-  
-
-
+* [Linux cmd](/CS/OS/Linux%20cmd.md)
+* [route](/CS/AI/route.md)
+* [copyright](/CS/prompt/copyright.md)
+* [To code](/CS/To%20code.md)
