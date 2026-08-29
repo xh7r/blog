@@ -1,2 +1,0 @@
-- DSH RAG plugin
-- 
