@@ -6,4 +6,5 @@
 * [Linux cmd](/CS/OS/Linux%20cmd.md)
 * [route](/CS/AI/route.md)
 * [copyright](/CS/prompt/copyright.md)
+* [Git](/CS/Management/Git.md)
 * [To code](/CS/To%20code.md)

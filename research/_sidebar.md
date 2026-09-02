@@ -4,4 +4,5 @@
 * [降AI率](/research/降AI率.md)
 * [LLM](/research/LLM.md)
 * [SEGODE Improve](/research/SEGODE%20Improve.md)
+* [ML Model Architecture](/research/ML%20Model%20Architecture.md)
 * [To read](/research/To%20read.md)
