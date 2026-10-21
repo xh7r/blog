@@ -23,6 +23,3 @@ Going Go-TT
 
 记忆嗅觉-topbay
 `研一上`
-
-April Encounter
-`和仙仙合唱录的第一首歌`
